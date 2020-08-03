@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+
+<category><pattern>IS THE STORE OPEN TODAY</pattern><template>Yes</template></category> 
+<category><pattern>CAN IT BE HOME DELIVERED</pattern><template>Yes</template></category> 
+
+
+<category><pattern>IS * AVAILABLE AT THE STORE</pattern><template>You can check the real time availablity of <star index = "1"/> on </template></category>
+
+
+<category><pattern>WHEN WILL THE STORE CLOSE TODAY</pattern><template>5pm</template></category>
+<category><pattern>CAN I RETURN A PRODUCT</pattern><template>We have a no return policy.</template></category>
+<category><pattern>ARE THERE ANY SPECIAL DISCOUNTS</pattern><template>You can check out the current offers on products on </template></category>
+
+</aiml>
