@@ -1,1 +1,3 @@
 # GroceryChatBot
+
+![](screenshot/Grocery.png)
